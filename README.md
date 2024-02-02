@@ -2,4 +2,5 @@
 I am a Front-End Developer based in Torrance, California.
 
 <h3>Socials</h3>
-Link here
+
+https://www.linkedin.com/in/richardbvu/
