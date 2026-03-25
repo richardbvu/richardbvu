@@ -4,12 +4,8 @@ IT / Cloud Support focused on Microsoft-based environments, including Active Dir
 
 I work across Active Directory, Microsoft Entra ID, and hybrid environments, focusing on troubleshooting, system validation, and core IT support tasks.
 
----
-
 ## Portfolio
 📁 [IT / Cloud Portfolio](https://github.com/richardbvu/it-cloud-portfolio)
-
----
 
 ## Featured Projects
 
